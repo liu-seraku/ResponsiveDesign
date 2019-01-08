@@ -7,6 +7,7 @@
 body {
     width: 70%;
     margin: auto;
+    padding: 1rem 0 0 0;
 }
 
 header {
@@ -565,7 +566,6 @@ footer .address span {
 
     body {
         width: 100%;
-        padding: 1rem 0 0 0;
     }
 
     header {
